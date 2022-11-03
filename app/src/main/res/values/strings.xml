@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Crimson Crown</string>
+    <string name="image_chooser">Choose Image</string>
+    <string name="facebook_app_id">3270902343190710</string>
+    <string name="fb_login_protocol_scheme">fb3270902343190710</string>
+</resources>
